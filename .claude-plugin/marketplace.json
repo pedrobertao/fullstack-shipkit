@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-shipkit",
+  "owner": {
+    "name": "Pedro Bertão"
+  },
+  "plugins": [
+    {
+      "name": "fullstack-shipkit",
+      "source": "./",
+      "description": "Plan, scaffold and verify Go + React + PostgreSQL projects, plus precise frontend tweaks.",
+      "version": "1.0.0"
+    }
+  ]
+}

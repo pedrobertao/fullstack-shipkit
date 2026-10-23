@@ -1,0 +1,10 @@
+{
+  "name": "fullstack-shipkit",
+  "description": "Claude Code skills for planning a project, scaffolding a Go + React + PostgreSQL stack, verifying it end to end, and turning vague frontend tweaks into precise changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pedro Bertão"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "go", "fiber", "nextjs", "react", "postgres", "scaffold", "planning"]
+}
